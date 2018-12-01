@@ -41,3 +41,15 @@ ul.sub li ul.sub{
 li:hover{
 	background: pink; 
 }
+
+.box{  
+ width: 200px;
+height: 200px;
+background: orange;
+}
+.box1{
+	float: left;
+}
+.box2{
+	float: right;
+}
